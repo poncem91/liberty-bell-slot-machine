@@ -4,10 +4,10 @@
 # Mariafe Ponce
 # Last Modified: 9 /12 / 19
 # ---------------------------------------
-# Simulate a modified Liberty Bell Slot Machine.
-# Task: Write spin_payout and simulate functions.
-# HONORS LAB EXTRAS: start_game(amount) function
-# and get_input() function.
+# Simulates a modified Liberty Bell Slot Machine
+# by completing spin_payout and simulate functions.
+# EXTRAS: start_game(amount) function
+# and get_input() function added.
 # ---------------------------------------
 
 import random
