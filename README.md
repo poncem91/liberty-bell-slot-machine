@@ -1,5 +1,5 @@
 # Liberty Bell Slot Machine Game Simulation
-A program done to simnulate a Liberty Bell Slot Machine.
+A program done to simulate a Liberty Bell Slot Machine.
 
 * Part One: Tests a serious of known spins and outputs expected payout.
 * Part Two: Estimates how much money you would expect to earn for every $1 spent, using a simulation of 5000 rounds of the game.
