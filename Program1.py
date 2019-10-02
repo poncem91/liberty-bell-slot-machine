@@ -1,13 +1,6 @@
 # ---------------------------------------
-# CSCI 127, Joy and Beauty of Data
-# Program 1: Liberty Bell Slot Machine
-# Mariafe Ponce
-# Last Modified: 9 /12 / 19
-# ---------------------------------------
 # Simulates a modified Liberty Bell Slot Machine
 # by completing spin_payout and simulate functions.
-# EXTRAS: start_game(amount) function
-# and get_input() function added.
 # ---------------------------------------
 
 import random
